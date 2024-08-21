@@ -18,8 +18,8 @@ def list_folders(email_address, password, server_address):
     mail.logout()
 
 
-email_address = 'info@stretta-music.com'
-password = '...'
-server_address = 'w01f596d.kasserver.com'
+email_address = 'wirsing@stretta-music.com'
+password = "dTOdz56yFPz66huGMddK"
+server_address = 'server25.zoks.net'
 
 list_folders(email_address, password, server_address)
