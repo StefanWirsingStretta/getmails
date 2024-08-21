@@ -153,7 +153,7 @@ def fetch_emails_for_accounts(accounts, server_address):
 
 
 accounts = [
-    {'email': 'wirsing@stretta-music.com', 'password': 'dTOdz56yFPz66huGMddK'},
+    {'email': 'wirsing@stretta-music.com', 'password': '...'},
 
 ]
 
