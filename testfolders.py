@@ -20,7 +20,7 @@ def list_folders(email_address, password, server_address):
 
 # Replace with your actual email credentials
 email_address = 'info@stretta-music.com'
-password = 'H7pbc6dC1TLVpiPVaniu'
+password = '...'
 server_address = 'w01f596d.kasserver.com'
 
 list_folders(email_address, password, server_address)
